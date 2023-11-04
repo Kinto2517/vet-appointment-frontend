@@ -1,0 +1,72 @@
+.add-pet-container {
+    text-align: center;
+    max-width: 800px; /* Increased max-width */
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .add-pet-container h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .add-pet-container form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .add-pet-container div {
+    width: calc(45% - 20px); /* Increased width */
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  .add-pet-container label {
+    display: block;
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  .add-pet-container input {
+    width: 100%; /* Full width input */
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #555;
+  }
+  
+  .add-pet-container button {
+    width: 100%;
+    background-color: #009900;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  .add-pet-container button:hover {
+    background-color: #007700;
+  }
+  
+  .add-pet-container p {
+    font-size: 16px;
+    color: #555;
+    margin-top: 10px;
+  }
+  
+  .add-pet-container p.error {
+    color: #ff0000;
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,49 @@
+
+
+  
+ .vet-doctor-update-container h2 {
+    text-align: center;
+  }
+  
+
+  
+  .vet-doctor-update-container button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .vet-doctor-update-container button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
+  .vet-doctor-update-container p {
+    color: #d9534f;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .vet-doctor-update-container {
+    margin: 0 auto;
+    margin-top: 70px;
+    padding: 20px;
+    border-radius: 5px;
+  }
+
+  .vet-doctor-update-container label {
+    font-weight: bold;
+  }
+
+  .vet-doctor-update-container input[type="text"],
+  .vet-doctor-update-container input[type="password"] {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+

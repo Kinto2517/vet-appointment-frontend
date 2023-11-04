@@ -1,0 +1,52 @@
+.all-pets-container {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .all-pets-container li {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px;
+  }
+  
+  .all-pets-container h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .all-pets-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .all-pets-container li h3 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  .all-pets-container p {
+    font-size: 16px;
+    color: #555;
+    margin: 5px 0;
+  }
+  
+  .all-pets-container button {
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  .all-pets-container button:hover {
+    background-color: #cc0000;
+  }
+  
+  
