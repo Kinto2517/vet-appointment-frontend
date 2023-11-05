@@ -9,7 +9,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
-    <li><a href="#built-with">Usage</a></li>
+    <li><a href="#built-with">Built With</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -19,11 +19,11 @@
 
 ## About The Project
 
-The VetAppointment Backend is the server-side component of a comprehensive system designed to streamline and enhance the management of veterinary appointments. This backend serves as the core of the VetAppointment ecosystem, offering the necessary functionality to support various features within the application.
+The VetAppointment Frontend is the user interface of the VetAppointment system, designed to provide a seamless and user-friendly experience for both clients and vet doctors. This web application allows clients to schedule appointments, manage their pets, and rate vet doctors, while vet doctors can manage their schedules, view appointments, and receive ratings.
 
-Developed with efficiency and user-friendliness in mind, the VetAppointment Backend handles the logic and data management for services such as appointment scheduling, client and pet information, vet doctor profiles, educational backgrounds, and professional experience. It ensures secure and reliable communication with the front-end and provides a robust foundation for building a seamless veterinary appointment management system.
+The frontend is built with modern web technologies and offers an intuitive interface that simplifies the interaction between clients and vet doctors. Users can easily register, log in, and access their respective dashboards to perform various tasks, ensuring efficient communication and coordination within the veterinary ecosystem.
 
-This backend is implemented using modern web technologies, including Java, Spring Boot, and various other libraries to ensure reliability, security, and scalability. It adheres to best practices for API design, authentication, and authorization, making it a solid choice for building a powerful and user-friendly veterinary appointment management solution.
+The VetAppointment Frontend is an essential component of the VetAppointment system, offering a convenient and accessible platform for users to connect with veterinary professionals and manage their appointments seamlessly. Whether you're a pet owner looking to book appointments or a vet doctor managing your practice, this frontend application has you covered.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,6 +71,18 @@ The page will reload when you make changes.
 
 
 ## Usage
+
+### Note that frontend part of this project is still in developing process and not fully represent the final project.
+
+![Screenshot_6](https://github.com/Kinto2517/vet-appointment-frontend/assets/54002766/3d7e42ca-12fa-4572-988e-05d112000f0a)
+
+![Screenshot_7](https://github.com/Kinto2517/vet-appointment-frontend/assets/54002766/0b4b069f-8ed5-4ee8-858f-92056586da09)
+
+![Screenshot_8](https://github.com/Kinto2517/vet-appointment-frontend/assets/54002766/8c9620a6-99f5-48c8-ab49-34430c80cc4f)
+
+![Screenshot_9](https://github.com/Kinto2517/vet-appointment-frontend/assets/54002766/5b67709f-1d3f-4dee-a0fb-6088457b93f0)
+
+![Screenshot_10](https://github.com/Kinto2517/vet-appointment-frontend/assets/54002766/922fbc27-2cd0-4bfa-8237-f425fda08400)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
