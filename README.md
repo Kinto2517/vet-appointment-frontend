@@ -74,6 +74,7 @@ The page will reload when you make changes.
 
 ### Note that frontend part of this project is still in developing process and not fully represent the final project.
 
+<img class="img-responsive" src="githubimg/Screenshot_6.png" align="">
 
 <img class="img-responsive" src="githubimg/Screenshot_7.png" align="">
 
