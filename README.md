@@ -74,15 +74,14 @@ The page will reload when you make changes.
 
 ### Note that frontend part of this project is still in developing process and not fully represent the final project.
 
-![Screenshot_6](https://github.com/Kinto2517/vet-appointment-frontend/assets/54002766/3d7e42ca-12fa-4572-988e-05d112000f0a)
 
-![Screenshot_7](https://github.com/Kinto2517/vet-appointment-frontend/assets/54002766/0b4b069f-8ed5-4ee8-858f-92056586da09)
+<img class="img-responsive" src="githubimg/Screenshot_7.png" align="">
 
-![Screenshot_8](https://github.com/Kinto2517/vet-appointment-frontend/assets/54002766/8c9620a6-99f5-48c8-ab49-34430c80cc4f)
+<img class="img-responsive" src="githubimg/Screenshot_8.png" align="">
 
-![Screenshot_9](https://github.com/Kinto2517/vet-appointment-frontend/assets/54002766/5b67709f-1d3f-4dee-a0fb-6088457b93f0)
+<img class="img-responsive" src="githubimg/Screenshot_9.png" align="">
 
-![Screenshot_10](https://github.com/Kinto2517/vet-appointment-frontend/assets/54002766/922fbc27-2cd0-4bfa-8237-f425fda08400)
+<img class="img-responsive" src="githubimg/Screenshot_10.png" align="">
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
